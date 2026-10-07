@@ -1,0 +1,1 @@
+import{_ as c,a as e,o as t}from"./index-BtgasTTF.js";const a={},o={class:"http-404"};function s(_,n){return t(),e("div",o,"404 🙈")}const d=c(a,[["render",s],["__scopeId","data-v-93cbba4a"]]);export{d as default};
